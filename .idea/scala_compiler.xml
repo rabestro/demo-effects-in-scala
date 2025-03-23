@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="demo-effects-in-scala,demo-effects-in-scala.main,demo-effects-in-scala.test" />
+  </component>
+</project>
