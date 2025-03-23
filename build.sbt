@@ -7,3 +7,5 @@ lazy val root = (project in file("."))
     name := "demo-effects-in-scala",
     idePackagePrefix := Some("lv.id.jc")
   )
+
+libraryDependencies += "org.typelevel" %% "cats-effect" % "3.6.0"
